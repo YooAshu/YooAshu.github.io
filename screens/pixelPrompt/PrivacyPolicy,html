@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – Pixel Prompt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 24px;background-color: rgba(20, 20, 35, 0.9);
+            border-radius: 12px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #a78bfa;
+            border-bottom: 2px solid #a78bfa;
+            padding-bottom: 12px;
+        }
+        h2 {
+            color: #c4b5fd;
+            margin-top: 24px;
+        }
+        p {
+            margin-bottom: 14px;
+            color: #d1d5db;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 13px;
+            color: #9ca3af;
+            border-top: 1px solid #4b5563;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+
+    <p>
+        Pixel Prompt respects your privacy. This Privacy Policy explains how information
+        is handled when you use the Pixel Prompt mobile application.
+    </p>
+
+    <h2>1. Information We Collect</h2>
+    <p>
+        Pixel Prompt does not require account registration. The app operates locally on your device
+        and does not collect or transmit personal information to our servers. Prompts you view,
+        save, and upvote are stored locally on your device only.
+    </p>
+
+    <h2>2. Saved Prompts</h2>
+    <p>
+        Prompts you save are stored in a local database on your device using Room Database.
+        This information is never transmitted to any server and remains under your complete control.
+    </p>
+
+    <h2>3. Upvotes and Interactions</h2>
+    <p>
+        Your upvotes on prompts are tracked locally on your device using SharedPreferences.
+        This data is used only to reflect your preferences in the app interface.
+    </p>
+
+    <h2>4. Advertisements</h2>
+    <p>
+        Pixel Prompt displays advertisements using Google AdMob. These services may collect limited,
+        non-personal information (such as device identifiers and advertising ID) to show relevant ads.
+        This is governed by Google's advertising policies.
+    </p>
+
+    <h2>5. Rewarded Ads (Premium Unlock)</h2>
+    <p>
+        Some premium prompts can be accessed by watching a rewarded advertisement. Watching ads is
+        completely optional and requires your explicit consent. After watching an ad, the premium
+        prompt is unlocked for viewing on your device.
+    </p>
+
+    <h2>6. Permissions</h2>
+    <p>
+        The app may request permissions for:
+        <br>• Internet: To fetch prompts and display ads
+        <br>• Device storage: To save prompts locally (if applicable)
+        <br>
+        All permissions are requested only when needed for app functionality.
+    </p>
+
+    <h2>7. Data Sharing</h2>
+    <p>
+        We do not sell, trade, or share your personal data with third parties. Third-party services
+        (Google AdMob) used by the app operate under their own privacy policies. Your saved prompts
+        and upvotes remain entirely on your device.
+    </p>
+
+    <h2>8. Data Security</h2>
+    <p>
+        Since all data is stored locally on your device, you have complete control over it. We
+        encourage users to protect their devices with appropriate security measures (PIN, password,
+        biometric authentication).
+    </p>
+
+    <h2>9. Data Deletion</h2>
+    <p>
+        You can delete any saved prompts from the Saved Prompts screen at any time. Uninstalling
+        the app will remove all locally stored data from your device.
+    </p>
+
+    <h2>10. Children's Privacy</h2>
+    <p>
+        Pixel Prompt is not intended for children under the age of 13. We do not knowingly collect
+        personal information from children under 13.
+    </p>
+
+    <h2>11. Third-Party Services</h2>
+    <p>
+        This app uses the following third-party services:
+        <br>• <strong>Google AdMob:</strong> For displaying banner and rewarded advertisements
+        <br>• <strong>Google Play Billing:</strong> For processing in-app purchases (if available)
+        <br>
+        Please review their privacy policies for more information.
+    </p>
+
+    <h2>12. Changes to This Policy</h2>
+    <p>
+        This Privacy Policy may be updated from time to time to reflect changes in the app or
+        applicable laws. Any changes will be reflected on this page with an updated date.
+    </p>
+
+    <h2>13. Contact Us</h2>
+    <p>
+        If you have any questions or concerns about this Privacy Policy or the app's privacy practices,
+        please contact us through the Google Play Store listing or at the contact information provided there.
+    </p>
+
+    <footer>
+        <p>Last updated: January 2026</p>
+    </footer>
+</div>
+
+</body>
+</html>
