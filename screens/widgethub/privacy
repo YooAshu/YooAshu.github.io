@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy – WidgetHub</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #f7f5fb;
+        color: #333;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 900px;
+        margin: auto;
+        padding: 24px;
+      }
+      h1 {
+        color: #5b3cc4;
+      }
+      h2 {
+        color: #7452d9;
+        margin-top: 24px;
+      }
+      p,
+      ul {
+        margin-bottom: 14px;
+      }
+      a {
+        color: #5b3cc4;
+      }
+      footer {
+        margin-top: 40px;
+        font-size: 13px;
+        color: #666;
+        border-top: 1px solid #ddd;
+        padding-top: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Privacy Policy</h1>
+      <p>
+        WidgetHub respects your privacy. This Privacy Policy explains how
+        information is handled when you use the WidgetHub mobile application
+        ("the App"), developed by Genix Apps.
+      </p>
+
+      <h2>1. Information We Collect</h2>
+      <p>
+        WidgetHub does not require account registration or sign-in. We do not
+        operate servers that store your personal information. Everything you
+        configure in the App — such as widget settings, favorites, quotes,
+        colors, and photos you choose for photo widgets — is stored
+        <strong>locally on your device only</strong> and is not uploaded to us.
+      </p>
+
+      <h2>2. Permissions and How They Are Used</h2>
+      <p>
+        The App requests certain permissions only to power specific widget
+        features. Each permission is optional unless the related feature is
+        used:
+      </p>
+      <ul>
+        <li>
+          <strong>Notifications:</strong> used to show the notification of the
+          real-time widget sync service and any alerts you enable.
+        </li>
+        <li>
+          <strong>Foreground service:</strong> used, only if you turn on
+          real-time widget sync, to keep widgets such as clocks and battery
+          widgets updating reliably. You can turn this off at any time in
+          Settings.
+        </li>
+        <li>
+          <strong>Location:</strong> used only by widgets that need your
+          location, and only when you grant the permission. Location is
+          processed on your device for the widget's purpose and is not stored
+          by us or linked to your identity.
+        </li>
+        <li>
+          <strong>Notification access (media playback):</strong> used only by
+          the Music widgets to read the currently playing track's title,
+          artist, artwork, and playback state, and to show playback controls.
+          This information is processed on your device, is displayed only in
+          your widget, and is never stored, transmitted, or shared. Notification
+          content other than media playback information is not read or
+          retained.
+        </li>
+        <li>
+          <strong>Photos / media:</strong> used only when you choose a photo
+          for a photo widget or quote background. Selected images are copied
+          into the App's private storage on your device and are never uploaded.
+        </li>
+        <li>
+          <strong>Battery information:</strong> used to display battery level
+          and charging status in battery widgets. This stays on your device.
+        </li>
+      </ul>
+
+      <h2>3. No Advertisements</h2>
+      <p>
+        WidgetHub does not display advertisements and does not use third-party
+        advertising SDKs. No user data is shared with advertisers or marketing
+        firms.
+      </p>
+
+      <h2>4. Premium Purchases and Subscriptions</h2>
+      <p>
+        Users may purchase a premium upgrade through Google Play Billing, offered
+        as a monthly subscription, a yearly subscription, or a one-time lifetime
+        purchase, and may be eligible for a free trial. All payments are
+        processed securely by Google Play. We do not collect, store, or have
+        access to your payment or billing information. We only receive
+        confirmation from Google Play of whether premium access is active.
+        Purchases and subscriptions are subject to Google Play's terms of
+        service, and you can manage or cancel subscriptions from your Google
+        Play account.
+      </p>
+
+      <h2>5. Data Sharing</h2>
+      <p>
+        We do not sell, trade, rent, or share your personal data with any third
+        party. Third-party services integrated in the App — namely Google Play
+        Services and Google Play Billing — operate under their own independent
+        privacy policies. The content of your widgets, photos, and quotes is
+        not shared with these services.
+      </p>
+
+      <h2>6. Data Storage and Security</h2>
+      <p>
+        All App data is stored locally on your device. You have full control
+        over this data, including deletion by removing widgets, clearing App
+        data, or uninstalling the App from your device settings. We do not
+        maintain any remote servers or databases containing your personal
+        information.
+      </p>
+
+      <h2>7. Children's Privacy</h2>
+      <p>
+        WidgetHub is a general-audience utility app and is not directed to
+        children under the age of 13. We do not knowingly collect personal
+        information from children.
+      </p>
+
+      <h2>8. Changes to This Policy</h2>
+      <p>
+        This Privacy Policy may be updated from time to time to reflect changes
+        in the App or applicable regulations. Updates will be posted on this
+        page with a revised date.
+      </p>
+
+      <h2>9. Contact Us</h2>
+      <p>
+        If you have any questions, concerns, or requests regarding this Privacy
+        Policy or your data, please contact us at:
+      </p>
+      <p>
+        <strong>Email:</strong>
+        <a href="mailto:genixapps.help@gmail.com">genixapps.help@gmail.com</a>
+        <br />
+        <strong>App:</strong> WidgetHub<br />
+        <strong>Developer:</strong> Genix Apps
+      </p>
+
+      <footer>
+        <p>Last updated: 16 October 2026</p>
+      </footer>
+    </div>
+  </body>
+</html>
