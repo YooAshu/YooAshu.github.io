@@ -71,10 +71,18 @@
           real-time widget sync service and any alerts you enable.
         </li>
         <li>
-          <strong>Foreground service:</strong> used, only if you turn on
-          real-time widget sync, to keep widgets such as clocks and battery
-          widgets updating reliably. You can turn this off at any time in
-          Settings.
+          <strong>Foreground service (real-time widget sync):</strong> Android
+          limits how often home screen widgets can refresh, and some device
+          manufacturers also stop background apps to save battery. This can
+          make clock and battery widgets lag or freeze. If you turn on
+          real-time widget sync in Settings, the App runs a foreground service
+          that listens for system events (such as the time changing or the
+          battery level changing) so these widgets stay accurate. Android
+          requires a persistent notification while this service runs. The
+          service only updates your widgets on your device. It does not collect,
+          store, or transmit any data, and it is off unless you enable it. You
+          can turn it off at any time in Settings, after which widgets return to
+          Android's normal update schedule and may update less often.
         </li>
         <li>
           <strong>Location:</strong> used only by widgets that need your
